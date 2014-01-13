@@ -1,3 +1,5 @@
-body{background: red;}
+body{
 
-h1{background: green;}
+	background: url("../img/bg.png");
+
+}
